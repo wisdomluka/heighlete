@@ -1,6 +1,8 @@
 
 ////////////// search luka
-
+fumction luka(){
+alert("i am luka samuel");
+}
 document.onmouseover=me1;
 console.log("run luka........");
 
